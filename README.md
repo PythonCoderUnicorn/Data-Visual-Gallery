@@ -11,3 +11,18 @@ A gallery collection of data visualizations in R
 
 ## Boxplot with jitter
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143721869-c407a1d5-f094-4efe-97b8-e0be477c68b0.png">
+
+
+## 2D Histogram
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143721970-63b33beb-e26b-41ab-802c-0e433b1ff4d4.png">
+
+
+## 2D Histogram with bins
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143721999-8e7410a7-48ae-4604-abb4-77ca6ed4f733.png">
+
+## 2D Histogram with hexagons
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143722017-f7a55aca-9210-4916-b6bb-e2ace1d3b5bc.png">
+
+## stat density using raster
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143722054-d2f95b4b-34ec-424a-baf2-f577da309e92.png">
+
