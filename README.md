@@ -8,3 +8,6 @@ A gallery collection of data visualizations in R
 
 ## Stacked Proportional Bar chart
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143720905-600abf54-f020-48ad-85be-ea479f0496b5.png">
+
+## Boxplot with jitter
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143721869-c407a1d5-f094-4efe-97b8-e0be477c68b0.png">
