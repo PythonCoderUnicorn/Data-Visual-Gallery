@@ -28,3 +28,7 @@ A gallery collection of data visualizations in R
 
 ## 2D density & scatterplot
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143722257-aa23530f-df6c-4010-a0fd-04c10f5bf56a.png">
+
+
+## Gapminder bubble plot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143722774-ce0c85e7-c33b-4033-b5e4-9f85b12355b5.png">
