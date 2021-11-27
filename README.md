@@ -26,3 +26,5 @@ A gallery collection of data visualizations in R
 ## stat density using raster
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143722054-d2f95b4b-34ec-424a-baf2-f577da309e92.png">
 
+## 2D density & scatterplot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143722257-aa23530f-df6c-4010-a0fd-04c10f5bf56a.png">
