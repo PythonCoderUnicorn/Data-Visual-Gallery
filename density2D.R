@@ -79,3 +79,31 @@ ggplot(df_2d, aes(x=x, y=y) ) +
   )+
   labs(title ="A 2D Histogram geom density",
        x="numbers")
+
+
+
+
+
+
+# -------------- hexbin & scatterplot
+
+# data
+star_df <- data.frame(x_values = 1:100 + rnorm(100, sd=20),
+                      y_values = 1:100 + rnorm(100, sd=27)) 
+
+#plot
+ggplot(star_df, aes(x_values, y_values)) +
+  stat_density2d(geom="tile", 
+                 aes(fill = ..density..), 
+                 contour = FALSE) + 
+  geom_point(colour = "white")+
+  ggdark::dark_mode()+
+  labs(title ="2D density chart & scatterplot ",
+       x="numbers")+
+  theme(
+    text = element_text(family = 'Poppins'),
+    legend.position="none",
+    plot.title = element_text(size=14)
+  )
+
+
