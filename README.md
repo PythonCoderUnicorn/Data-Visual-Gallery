@@ -95,6 +95,9 @@ A gallery collection of data visualizations in R
 
 
 
+## Treemap
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143778540-8af84951-7040-4f54-87c6-f2a5c50a0649.png">
+
 
 
 
