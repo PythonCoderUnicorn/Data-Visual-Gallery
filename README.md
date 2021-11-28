@@ -49,6 +49,25 @@ A gallery collection of data visualizations in R
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143724963-8cc08f98-0924-4d54-ba14-d3bdb1ed9dcb.png">
 
 
+## Parallel coordinate plot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143725068-6eb6a9d4-d173-4bc1-8131-d3058972584d.png)">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
