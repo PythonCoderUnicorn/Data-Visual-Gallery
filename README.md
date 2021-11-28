@@ -32,3 +32,20 @@ A gallery collection of data visualizations in R
 
 ## Gapminder bubble plot
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143722774-ce0c85e7-c33b-4033-b5e4-9f85b12355b5.png">
+
+
+## basic density chart
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143724441-c68e95a9-1207-432a-9cfe-cd535d0e0f98.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
