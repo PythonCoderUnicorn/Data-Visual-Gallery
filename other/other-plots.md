@@ -1,5 +1,13 @@
 # other data visual plots
 
+## radar plot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143780666-04ffe965-4fcd-415a-91be-9bc63b9d286c.png">
+
+### customize
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143780787-deff24fa-e54b-4080-b8c9-4173f4e438c3.png">
+
+
+
 ## Streamgraph
 
 <img width="1236" src="https://user-images.githubusercontent.com/55933131/143776007-f4846269-55e5-4ac1-b70b-2fe98751816b.png">
