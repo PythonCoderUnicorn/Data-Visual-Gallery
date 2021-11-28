@@ -56,6 +56,17 @@ A gallery collection of data visualizations in R
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143725146-521a8380-b047-4072-a3aa-2b94934ba2ea.png">
 
 
+## Heatmaps
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143725418-77ba2aa7-5c40-4fc3-9442-61084fc88556.png">
+
+scale_fill_distiller
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143725433-a90e4d8d-79b9-43dc-b3ac-e04cadcba74e.png">
+
+scale_fill_viridis
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143725445-deca7af2-d8e4-4f72-bd1f-e86d275be68c.png">
+
+
+
 
 
 
