@@ -42,7 +42,11 @@ A gallery collection of data visualizations in R
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143724767-9c15a59c-78dd-4166-af2f-ea9f6b34ea0e.png">
 
 
+## scatterplot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143724950-3c32acc4-f766-4c03-beff-5a44b8a0577f.png">
 
+### scatterplot with shapes
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143724963-8cc08f98-0924-4d54-ba14-d3bdb1ed9dcb.png">
 
 
 
