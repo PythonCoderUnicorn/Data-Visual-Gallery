@@ -66,6 +66,9 @@ A gallery collection of data visualizations in R
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143725445-deca7af2-d8e4-4f72-bd1f-e86d275be68c.png">
 
 
+## connected scatterplot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143725869-f65e5a37-74d5-4661-8864-41470fc59a3c.png">
+
 
 
 
