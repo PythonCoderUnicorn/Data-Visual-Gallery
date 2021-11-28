@@ -34,6 +34,39 @@ ggplot(
 
 
 
+
+
+
+
+
+ggplot(lolli.2,
+       aes(x=x,
+           y=y))+
+  
+  geom_segment(
+    aes(x=x, y=1, xend=x, yend=y),
+    col= colors[2]
+  )+
+  geom_point(col='green', size=3)+
+  # coord_flip()+
+  ggdark::dark_mode()+
+  theme(
+    text = element_text(family = 'Poppins'),
+    # legend.position="none",
+    plot.title = element_text(size=14)
+  )+
+  labs(title = "Lollipop plot", x="letters")
+
+
+
+
+
+
+
+
+
+
+
 lolli.2 = data.frame(
   x = LETTERS,
   y = abs( rnorm(26))
