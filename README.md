@@ -85,8 +85,13 @@ A gallery collection of data visualizations in R
 ### Lollipop plot with baseline
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143771491-50f33a03-8634-4f43-8731-d2c0044d1bf4.png">
 
-<img height="500" src="">
 
+## Time Series lineplot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143777490-eaa10239-dc2f-4717-9b63-fd80e8025121.png">
+
+
+### Time Series line & point plot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143777617-d408623e-c11f-4952-a47a-37c6b67e1c87.png">
 
 
 
