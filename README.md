@@ -50,7 +50,7 @@ A gallery collection of data visualizations in R
 
 
 ## Parallel coordinate plot
-<img height="500" src="https://user-images.githubusercontent.com/55933131/143725068-6eb6a9d4-d173-4bc1-8131-d3058972584d.png)">
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143725068-6eb6a9d4-d173-4bc1-8131-d3058972584d.png">
 
 
 
