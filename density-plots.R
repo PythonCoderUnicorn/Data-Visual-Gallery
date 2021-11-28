@@ -1,5 +1,8 @@
 # --------------- basic density chart
 
+# source: https://www.r-graph-gallery.com
+
+
 # The dataset is provided in the gapminder library
 library(gapminder)
 data <- gapminder %>% filter(year=="2007") %>% dplyr::select(-year)
@@ -20,7 +23,9 @@ data %>%
 
 
 # ------ mirror density plot
-library(hrbrthemes)
+library(hrbrthemes) # needed for theme_ipsum()
+
+
 mdens_df = data.frame(
   var1 = rnorm(1000),
   var2 = rnorm(1000, mean=2)
