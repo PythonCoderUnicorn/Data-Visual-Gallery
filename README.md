@@ -38,6 +38,8 @@ A gallery collection of data visualizations in R
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143724441-c68e95a9-1207-432a-9cfe-cd535d0e0f98.png">
 
 
+## mirror density plot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143724767-9c15a59c-78dd-4166-af2f-ea9f6b34ea0e.png">
 
 
 
