@@ -82,7 +82,10 @@ A gallery collection of data visualizations in R
 <img height="500" src="https://user-images.githubusercontent.com/55933131/143771163-79b824e3-9816-4564-92eb-8a8f564709ac.png">
 
 
+### Lollipop plot with baseline
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143771491-50f33a03-8634-4f43-8731-d2c0044d1bf4.png">
 
+<img height="500" src="">
 
 
 
