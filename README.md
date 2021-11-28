@@ -75,6 +75,12 @@ A gallery collection of data visualizations in R
 
 
 
+## Lollipop plot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143771137-4dcb92a6-24e4-4d1a-89b6-0757d0c1537c.png">
+
+### Lollipop plot with categories
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143771163-79b824e3-9816-4564-92eb-8a8f564709ac.png">
+
 
 
 
