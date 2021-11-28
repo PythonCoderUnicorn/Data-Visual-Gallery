@@ -67,9 +67,11 @@ A gallery collection of data visualizations in R
 
 
 ## connected scatterplot
-<img height="500" src="https://user-images.githubusercontent.com/55933131/143725869-f65e5a37-74d5-4661-8864-41470fc59a3c.png">
+<img  src="https://user-images.githubusercontent.com/55933131/143725869-f65e5a37-74d5-4661-8864-41470fc59a3c.png">
 
 
+## Polynomial Curve scatterplot
+<img height="500" src="https://user-images.githubusercontent.com/55933131/143770572-7b264aad-e807-4a74-aa78-5661ae1eb5f1.png">
 
 
 
